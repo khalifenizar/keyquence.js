@@ -1,0 +1,18 @@
+# Sublime Text project files
+*.sublime-workspace
+
+# Folder view configuration files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+ehthumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
